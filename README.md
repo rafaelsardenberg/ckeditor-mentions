@@ -1,7 +1,9 @@
-ckeditor_mentions
-=================
+CKEditor Mentions Jquery Plugin
+===============================
 
-Increase the quality of your text areas including this feature. It was created according with twitter and slack similar features.
+Increase the quality of your text areas including this easy configurable feature. It was created according with similar features in Twitter and Slack. 
+
+It provides suggestions according to what it's typed after the "@". Thus, the user could receive suggestions while writing his text and achieve the desired typed result easily. 
 
 Get it from Github
 
@@ -12,6 +14,7 @@ Test it yourself using this jsFiddle Demo
 Created by Rafael Sardenberg - LICO Innovations
 
 Instructions
+========
 
 First, add the Javascript and CSS files to your system. 
 
