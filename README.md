@@ -4,7 +4,7 @@ Increase the quality of your text areas including this easy configurable feature
 
 It provides suggestions according to what it's typed after the "@". Thus, the user could receive suggestions while writing his text and achieve the desired typed result easily. 
 
-[Get it from Github](https://github.com/rafaelsardenberg/ckeditor_mentions)
+[Get it from Github](https://github.com/rafaelsardenberg/ckeditor_mentions_jquery_plugin)
 
 Created by [Rafael Sardenberg](https://www.facebook.com/rafael.sardenberg.3) - [LICO Innovations](http://www.lico.nl/)
 
