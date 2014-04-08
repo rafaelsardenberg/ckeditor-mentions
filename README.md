@@ -6,10 +6,6 @@ It provides suggestions according to what it's typed after the "@". Thus, the us
 
 [Get it from Github](https://github.com/rafaelsardenberg/ckeditor_mentions)
 
-View Demo 
-
-Test it yourself using this jsFiddle Demo
-
 Created by [Rafael Sardenberg](https://www.facebook.com/rafael.sardenberg.3) - [LICO Innovations](http://www.lico.nl/)
 
 # Instructions
